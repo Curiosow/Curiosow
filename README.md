@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Curiosow?tab=repositories](https://github.com/Curiosow?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Curiosow?tab=repositories)
 
 - 💬 Ask me about **Java & Python**
 
