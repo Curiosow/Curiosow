@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Curiosow?tab=repositories)
 
-- 💬 Ask me about **Java & Python**
+- 💬 Ask me about **Java, Python & Database like MySQL or PostgreSQL**
 
 - 📫 How to reach me **pro.curiosow@gmail.com**
 
