@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Curiosow ☕️</h1>
+<h1 align="center">Hello, I'm Curiosow ☕️</h1>
 <h3 align="center">Developper Tools/Maintenancer in Java</h3>
 
 <p align="left"> <a href="https://twitter.com/curiosowleouf" target="blank"><img src="https://img.shields.io/twitter/follow/curiosowleouf?logo=twitter&style=for-the-badge" alt="curiosowleouf" /></a> </p>
