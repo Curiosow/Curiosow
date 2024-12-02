@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python & Database like MySQL or PostgreSQL**
 
-- 📫 How to reach me **mailto:oscar@curiosow.fr**
+- 📫 How to reach me **[oscar@curiosow.fr](mailto:oscar@curiosow.fr)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
